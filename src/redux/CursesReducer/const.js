@@ -1,0 +1,3 @@
+export const SET_BASE_CURRENCY = 'SET_BASE_CURRENCY'
+export const SET_CURRENCY = 'SET_CURRENCY'
+export const SET_IN_CURRENCY = 'SET_IN_CURRENCY'
